@@ -1,6 +1,4 @@
-# Plan de commits – Dominó Caos (3 commits, uno por estudiante)
-
-Cada estudiante hace **un solo commit** con toda su parte. Se suben en orden: **E1 → E2 → E3**. Cada commit tiene su zip numerado (`Commit_1_...`, `Commit_2_...`, `Commit_3_...`) con los archivos listos para extraer en la raíz del repositorio y un `_LEEME_COMMIT_N.txt` con los pasos (ese archivo está en `.gitignore`, no se sube).
+# Plan de commits – Dominó Caos 
 
 ## Orden
 
